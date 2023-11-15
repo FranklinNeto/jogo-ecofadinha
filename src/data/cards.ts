@@ -79,7 +79,7 @@ export const cards = [
     back: "🍙",
     flipped: false,
   },
-  {
+  /* {
     id: "17",
     back: "☕",
     flipped: false,
@@ -88,5 +88,5 @@ export const cards = [
     id: "18",
     back: "🍵",
     flipped: false,
-  },
+  }, */
 ];
